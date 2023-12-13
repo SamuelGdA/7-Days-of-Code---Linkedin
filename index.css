@@ -1,0 +1,156 @@
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Roboto&display=swap');
+
+.perfil{
+display: flex;
+}
+
+.foto-perfil {
+margin-top: -113px;
+margin-left: 25px;
+}
+
+.infos {
+background: #1B2226;
+border-radius: 0px 0px 16px 16px;
+width: 780px;
+height: 238px;
+}
+
+.div-interna{
+border-radius: 0px 0px 16px 16px;
+background:#1B2226;
+width: 780px;
+height: 238px;
+}
+
+.nome{
+margin-top: 0.5%;
+margin-left: 3%;
+color: rgba(255, 255, 255, 0.90);
+font-family:Roboto;
+font-size: 24px;
+font-weight: 600;
+    }
+
+.descricao{
+margin-top: -1.5%;
+margin-left: 3%;
+color: rgba(255, 255, 255, 0.90);
+font-family: 'Roboto', sans-serif;
+font-size: 16px;
+font-weight: 600;
+}
+
+.d2 {
+margin-top: -1.5%;
+margin-left: 3%;
+color:rgba(255, 255, 255, 0.60);
+font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+}
+
+.cep {
+margin-top: -1.5%;
+margin-left: 3%;
+color:rgba(255, 255, 255, 0.60);
+font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+}
+
+.span1 {
+color:#70B5F9;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+}
+
+.seguidores {
+margin-top: -1.5%;
+margin-left: 3%;
+color: #70B5F9;
+font-family: Roboto;
+font-size: 14px;
+font-weight: 500;
+}
+
+.span2 {
+color: rgba(255, 255, 255, 0.60);
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+}
+
+.mensagem {
+position: relative;
+bottom: 10px;
+margin-left: 3%;
+width: 128px;
+height: 32px;
+border-radius: 16px;
+border:none;
+background: #70B5F9;
+font-family: Roboto;
+color: rgba(0, 0, 0, 0.75);
+font-size: 14px;
+font-weight: 500;
+}
+
+.mais{
+position: relative;
+bottom: 10px;
+width: 128px;
+height: 32px;
+border-radius: 16px;
+border: 1px solid #70B5F9;
+background:rgba(255, 255, 255, 0.00);
+color:#70B5F9;
+font-family: Roboto;
+font-size: 14px;
+font-weight: 500;
+}
+
+.empresa {
+display: flex;
+align-items: center;
+position: relative;
+top: -185px;
+left: 505px;        
+}
+
+.instituicoes {
+width: 32px;
+height: 32px;
+}
+
+.emp {
+padding-left: 5px;
+color:rgba(255, 255, 255, 0.90);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 600;
+}
+
+.ensino{
+display: flex;
+align-items: center;
+position: relative;
+top: -195px;
+left: 505px;
+}
+
+.foto-da-instituicao {
+width: 32px;
+height: 32px;
+}
+
+.instituicao-de-ensino{
+padding-left: 5px;
+color:rgba(255, 255, 255, 0.90);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 600;
+}
